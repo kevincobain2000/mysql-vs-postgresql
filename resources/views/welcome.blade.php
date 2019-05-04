@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-        <script src="{{mix('app.js')}}" type="text/javascript" charset="utf-8"></script>
+        <script src="{{mix('js/app.js')}}" type="text/javascript" charset="utf-8"></script>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">

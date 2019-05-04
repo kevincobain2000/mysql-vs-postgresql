@@ -1,0 +1,1 @@
+https://medium.com/web-developer/mysql-vs-postgresql-performance-test-with-laravel-api-for-simple-eloquent-queries-on-1-million-6e0e6f1005b8
